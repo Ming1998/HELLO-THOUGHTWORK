@@ -1,2 +1,2 @@
-# HELLO-THOUGHTWORK
+# some photos
 first programming
